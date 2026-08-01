@@ -11,12 +11,6 @@
 
 <br />
 
-## 🎬 실행 영상
-
-[![따끈따끈 붕어빵 실행 영상](https://img.youtube.com/vi/cmlOsWBZXNY/hqdefault.jpg)](https://youtu.be/cmlOsWBZXNY?si=I9tat9NlssRLAlLh)
-
-> 썸네일을 클릭하면 실행 영상으로 이동합니다.
-
 ## 👤 프로젝트 정보
 
 | 항목 | 내용 |
@@ -26,6 +20,7 @@
 | 수업명 | 2D프로그래밍 |
 | 게임 로직 · UI | 직접 코딩 |
 | 이미지 에셋 | ChatGPT를 활용해 직접 제작 |
+| 실행 영상 | [YouTube에서 보기](https://youtu.be/cmlOsWBZXNY?si=I9tat9NlssRLAlLh) |
 
 ## 🎮 프로젝트 소개
 
