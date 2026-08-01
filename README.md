@@ -1,21 +1,33 @@
-# 붕어빵 타이쿤 🐟
+# 따끈따끈 붕어빵 🐟
 
 <div align="center">
-  <img src="BungeoppangTycoon/Assets/Resources/Sprites/UI/TitleTextImg.png" alt="붕어빵 타이쿤 로고" width="360" />
+  <img src="BungeoppangTycoon/Assets/Resources/Sprites/UI/TitleTextImg.png" alt="따끈따끈 붕어빵 로고" width="360" />
   <br />
   <br />
   <b>손님 주문을 놓치지 않고, 따뜻한 붕어빵 가게를 5일간 운영하는 Unity 2D 경영 게임</b>
   <br />
-  <sub>School project · Unity 6000.0.39f1 · C#</sub>
+  <sub>Bungeoppang Tycoon · Solo Project · Unity 6000.0.39f1 · C#</sub>
 </div>
 
 <br />
 
 ![게임 배경](BungeoppangTycoon/Assets/Resources/Sprites/Environment/background.png)
 
+> 🎬 **[실행 영상 보기](https://youtu.be/cmlOsWBZXNY?si=I9tat9NlssRLAlLh)**
+
+## 👤 프로젝트 정보
+
+| 항목 | 내용 |
+| --- | --- |
+| 개발 인원 | 1인 개발 |
+| 개발 기간 | 2025.05.04 – 2025.06.12 |
+| 수업명 | 2D프로그래밍 |
+| 게임 로직 · UI | 직접 코딩 |
+| 이미지 에셋 | ChatGPT를 활용해 직접 제작 |
+
 ## 🎮 프로젝트 소개
 
-**붕어빵 타이쿤**은 겨울 저녁의 붕어빵 가게를 운영하는 2D 요리·타임 매니지먼트 게임입니다.
+**따끈따끈 붕어빵**은 겨울 저녁의 붕어빵 가게를 운영하는 2D 요리·타임 매니지먼트 게임입니다.
 플레이어는 반죽과 속재료를 조합해 붕어빵을 만들고, 기다리는 손님의 주문에 맞춰 완성품을 전달합니다.
 
 하루 장사가 끝나면 매출에서 재료비를 계산하고 다음 날을 준비합니다. 5일 차에 보유 금액이 **40,000원 초과**이면 클리어 엔딩을 볼 수 있습니다.
