@@ -1,7 +1,7 @@
 # 붕어빵 타이쿤 🐟
 
 <div align="center">
-  <img src="Bungeobbang/Assets/Resources/Sprites/UI/TitleTextImg.png" alt="붕어빵 타이쿤 로고" width="360" />
+  <img src="BungeoppangTycoon/Assets/Resources/Sprites/UI/TitleTextImg.png" alt="붕어빵 타이쿤 로고" width="360" />
   <br />
   <br />
   <b>손님 주문을 놓치지 않고, 따뜻한 붕어빵 가게를 5일간 운영하는 Unity 2D 경영 게임</b>
@@ -11,7 +11,7 @@
 
 <br />
 
-![게임 배경](Bungeobbang/Assets/Resources/Sprites/Environment/background.png)
+![게임 배경](BungeoppangTycoon/Assets/Resources/Sprites/Environment/background.png)
 
 ## 🎮 프로젝트 소개
 
@@ -44,7 +44,7 @@
 ## 🖼️ 엔딩 장면
 
 <div align="center">
-  <img src="Bungeobbang/Assets/Resources/Sprites/Ending/ClearEndingScene.png" alt="클리어 엔딩의 붕어빵 가게" width="720" />
+  <img src="BungeoppangTycoon/Assets/Resources/Sprites/Ending/ClearEndingScene.png" alt="클리어 엔딩의 붕어빵 가게" width="720" />
 </div>
 
 ## 🛠️ 기술 스택
@@ -57,7 +57,7 @@
 ## 📁 프로젝트 구조
 
 ```text
-Bungeobbang/
+BungeoppangTycoon/
 ├─ Assets/
 │  ├─ Scenes/          # 시작 및 게임 씬
 │  ├─ Scripts/
@@ -71,7 +71,7 @@ Bungeobbang/
 
 ## ▶️ 실행 방법
 
-1. Unity Hub에서 이 저장소의 `Bungeobbang` 폴더를 프로젝트로 추가합니다.
+1. Unity Hub에서 이 저장소의 `BungeoppangTycoon` 폴더를 프로젝트로 추가합니다.
 2. **Unity 6000.0.39f1** 버전으로 프로젝트를 엽니다.
 3. `Assets/Scenes/IntroScene.unity`를 열고 Play 버튼을 누릅니다.
 
