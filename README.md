@@ -11,9 +11,11 @@
 
 <br />
 
-![게임 배경](BungeoppangTycoon/Assets/Resources/Sprites/Environment/background.png)
+## 🎬 실행 영상
 
-> 🎬 **[실행 영상 보기](https://youtu.be/cmlOsWBZXNY?si=I9tat9NlssRLAlLh)**
+[![따끈따끈 붕어빵 실행 영상](https://img.youtube.com/vi/cmlOsWBZXNY/hqdefault.jpg)](https://youtu.be/cmlOsWBZXNY?si=I9tat9NlssRLAlLh)
+
+> 썸네일을 클릭하면 실행 영상으로 이동합니다.
 
 ## 👤 프로젝트 정보
 
